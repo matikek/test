@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541578475 source:c:\c++\wymiana imienia x5\main.cpp
+	<iostream>
+	<windows.h>
+
